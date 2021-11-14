@@ -1,0 +1,12 @@
+html[uip-admin-theme=true] .wp-core-ui .button {
+    background-color: #6da87a;
+    --uip-button-default-hover-bg: #aad0b2;
+    
+    
+body.uip-login #login .button-primary {
+    background-color: #7fa786;
+    color: var(--uip-text-color-inverse);
+    border: var(--uip-border-width) solid var(--uip-background-primary);
+    width: 100%;
+    padding: var(--uip-padding-xxs);
+}
